@@ -1,0 +1,14 @@
+E:\fof git\Дом_задание\Строки\String_1\obj\Debug\net7.0\String_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\fof git\Дом_задание\Строки\String_1\obj\Debug\net7.0\String_1.AssemblyInfoInputs.cache
+E:\fof git\Дом_задание\Строки\String_1\obj\Debug\net7.0\String_1.AssemblyInfo.cs
+E:\fof git\Дом_задание\Строки\String_1\obj\Debug\net7.0\String_1.csproj.CoreCompileInputs.cache
+E:\fof git\Дом_задание\Строки\String_1\bin\Debug\net7.0\String_1.exe
+E:\fof git\Дом_задание\Строки\String_1\bin\Debug\net7.0\String_1.deps.json
+E:\fof git\Дом_задание\Строки\String_1\bin\Debug\net7.0\String_1.runtimeconfig.json
+E:\fof git\Дом_задание\Строки\String_1\bin\Debug\net7.0\String_1.dll
+E:\fof git\Дом_задание\Строки\String_1\bin\Debug\net7.0\String_1.pdb
+E:\fof git\Дом_задание\Строки\String_1\obj\Debug\net7.0\String_1.dll
+E:\fof git\Дом_задание\Строки\String_1\obj\Debug\net7.0\refint\String_1.dll
+E:\fof git\Дом_задание\Строки\String_1\obj\Debug\net7.0\String_1.pdb
+E:\fof git\Дом_задание\Строки\String_1\obj\Debug\net7.0\String_1.genruntimeconfig.cache
+E:\fof git\Дом_задание\Строки\String_1\obj\Debug\net7.0\ref\String_1.dll
